@@ -1,0 +1,26 @@
+$primary-bg-subtle: #005BAA;
+$red:#EE3124 ;
+$black:#ffff;
+
+
+
+
+
+@font-face {
+    font-family: 'Neris';
+    src: local('Neris Light'), local('Neris-Light'), url('../../fonts/nerislight.woff2') format('woff2'), url('../../fonts/nerislight.woff') format('woff'), url('../../fonts/nerislight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Neris';
+    src: local('Neris SemiBold'), local('Neris-SemiBold'), url('../../fonts/nerissemibold.woff2') format('woff2'), url('../../fonts/nerissemibold.woff') format('woff'), url('../../fonts/nerissemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Neris';
+    src: local('Neris Black'), local('Neris-Black'), url('../../fonts/nerisblack.woff2') format('woff2'), url('../../fonts/nerisblack.woff') format('woff'), url('../../fonts/nerisblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
